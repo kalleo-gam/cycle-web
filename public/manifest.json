@@ -1,0 +1,8 @@
+{
+  "short_name": "The Cycle",
+  "name": "The Cycle - Fornecimento de Peças",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

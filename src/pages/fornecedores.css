@@ -1,0 +1,61 @@
+.container-fornecedores {
+    max-width: 1063px;
+    background: #fff;
+    margin: auto;
+    border-radius: 8px;
+    padding: 16px 56px;
+    font-size: 14px;
+}
+
+.titulo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #141c49;
+    margin-bottom: 20px;
+}
+
+.norma-data small + small {
+    margin-left: 16px;
+}
+
+.row {
+    margin-bottom: 24px;
+}
+
+select, input {
+    background-color: #F7F6F9 !important;
+}
+
+.container-fornecedores a {
+    text-decoration: none;
+    color: inherit;
+    word-break: break-all;
+}
+
+button:hover {
+    background: #497a09;
+}
+
+button svg {
+    color: #5B5C62;
+}
+
+button:hover svg {
+    color: #8C79ED;
+}
+
+button + button {
+    margin-left: 8px;
+}
+
+@media screen and (max-width: 400px) {
+    .container-fornecedores {
+        padding: 16px;
+    }
+    .row {
+        margin-bottom: 0 !important;
+    }
+    .col-sm-12 {
+        margin-bottom: 24px;
+    }
+}
