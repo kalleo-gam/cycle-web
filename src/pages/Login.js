@@ -40,7 +40,7 @@ export default function Login() {
             <div className="container-header">
                 <div className="header" style={{ justifyContent: "center" }}>
                 <div class="logo-container">
-                    <img src="https://github.com" alt="Site Logo" />
+                    <img src="https://github.com/kalleo-gam/cycle-web/blob/main/public/logo.png?raw=true" alt="Site Logo" />
                 </div>
                 </div>
             </div>
